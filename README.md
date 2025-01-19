@@ -7,7 +7,8 @@ Welcome to the SQL Relations Practice Repository! This project is designed to he
 The repository contains multiple database schemas, each with a unique set of tables and relationships. These schemas are designed to cover a wide range of scenarios and use cases, providing a comprehensive learning experience.
 
 ## Database Schemas
-Library System: A database schema for managing a library, including tables for authors, books, publishers, members, loans, categories, and events.
+1. Library System: A database schema for managing a library, including tables for authors, books, publishers, members, loans, categories, and events.
+2. ECommerce System: A database schema for managing a e-shop, including tables for products, orders, users, categories, paymentdetails and orderdetails.
 
 Each schema includes:
 

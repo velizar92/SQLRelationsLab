@@ -14,7 +14,6 @@ Each schema includes:
 Table Definitions: Detailed table structures with primary keys, foreign keys, and constraints.
 Sample Data: Pre-populated data to help you get started quickly.
 
-
 ## To get started with this repository, follow these steps:
 
 ### Clone the Repository:
@@ -26,7 +25,7 @@ Execute the provided SQL scripts to create the database and tables.
 Insert the sample data using the provided insert statements.
 
 ## Contributing
-We welcome contributions from the community! If you have additional database schemas, sample data, or example queries that you would like to share, please feel free to submit a pull request.
+We welcome contributions from the community! If you have additional database schemas or sample data that you would like to share, please feel free to submit a pull request.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.

@@ -8,7 +8,7 @@ The repository contains multiple database schemas, each with a unique set of tab
 
 ## Database Schemas
 1. Library System: A database schema for managing a library, including tables for authors, books, publishers, members, loans, categories, and events.
-2. ECommerce System: A database schema for managing a e-shop, including tables for products, orders, users, categories, paymentdetails and orderdetails.
+2. ECommerce System: A database schema for managing an e-shop, including tables for products, orders, users, categories, paymentdetails and orderdetails.
 
 Each schema includes:
 

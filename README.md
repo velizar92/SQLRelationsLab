@@ -9,6 +9,7 @@ The repository contains multiple database schemas, each with a unique set of tab
 ## Database Schemas
 1. Library System: A database schema for managing a library, including tables for authors, books, publishers, members, loans, categories, and events.
 2. ECommerce System: A database schema for managing an e-shop, including tables for products, orders, users, categories, paymentdetails and orderdetails.
+3. Hospital System: A database schema for managing of hospital, including tables for patients, doctors, clinicalrecords, appointments, departments, billings.
 
 Each schema includes:
 
@@ -26,7 +27,7 @@ Execute the provided SQL scripts to create the database and tables.
 Insert the sample data using the provided insert statements.
 
 ## Contributing
-We welcome contributions from the community! If you have additional database schemas or sample data that you would like to share, please feel free to submit a pull request.
+I welcome contributions from the community! If you have additional database schemas or sample data that you would like to share, please feel free to submit a pull request.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
